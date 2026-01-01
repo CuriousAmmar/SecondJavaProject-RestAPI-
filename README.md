@@ -246,7 +246,7 @@ Output of the method GET :
 <br>
 
 Database after the method GET :
-![DB after GET](images/Database after GET.png)
+![DB after GET](images/Database_after_GET.png)
 
 <br>
 <br>
@@ -258,7 +258,7 @@ Output of the method PUT :
 <br>
 
 Database after the method PUT :
-![DB after PUT](images/Database after PUT.png)
+![DB after PUT](images/Database_after_PUT.png)
 
 <br>
 <br>
@@ -270,10 +270,10 @@ Output of the method DELETE :
 <br>
 
 Database after the deleting a resource :
-![DB after DELETE](images/Database after DELETE.png)
+![DB after DELETE](images/Database_after_DELETE.png)
 
 <br>
 <br>
 
 Trying to use the method GET after deleting a resource will cause this result :
-![GET after DELETE](images/trying GET after deleting the resource.png)
+![GET after DELETE](images/trying_GET_after_deleting_the_resource.png)
